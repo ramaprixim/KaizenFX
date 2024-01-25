@@ -64,9 +64,7 @@
                                         <input class="form-control" type="text" name="amount" value="" id="amount" placeholder="Enter Amount Size" required="required">
                                     </div>
                                     
-                                    <!-- <div class="form-group col-lg-12 col-md-12 col-sm-12">
-                                        <textarea name="message" placeholder="Your Massage"></textarea>
-                                    </div> -->
+                                 
             
                                     <div class="form-group text-center col-lg-12 col-md-12 col-sm-12">
                                         <button class="btn btn-danger" type="submit" class="theme-btn message-btn">Submit</button>

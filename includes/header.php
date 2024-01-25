@@ -53,10 +53,7 @@
     <script src="js/revolution-slider/js/jquery.themepunch.revolution.min.js"></script>
 
 
-    <!--[if lt IE 9]>
-  <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
-  <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
-<![endif]-->
+    
 </head>
 
 <body class>
@@ -64,7 +61,7 @@
 
         <div id="preloader">
             <div id="spinner">
-                <img alt src="images/preloaders/5.gif">
+                <img alt src="/images/preloaders/KaizenFX  white   logo.png">
             </div>
             <div id="disable-preloader" class="btn btn-default btn-sm">Disable Preloader</div>
         </div>
@@ -115,20 +112,13 @@
                     <div class="container">
                         <nav id="menuzord-right" class="menuzord default pl-15 pr-15">
                             <a class="menuzord-brand pull-left flip mt-20 mb-15" href="index-mp-layout1.html"><img
-                                    src="images/logo-wide.png" alt></a>
+                                    src="images/KaizenFX  logo  .png" alt></a>
                             <ul class="menuzord-menu">
                                 <li class="active"><a href="#home">Home</a></li>
                                 <li><a href="#">About Us</a>
                                     <ul class="dropdown" style="right: auto; display: none;">
                                         <li><a href="why-us.php">Why Us</a></li>
-                                        <!-- <li><a href="regulations.php">Regulations</a></li>
-                                        <li><a href="legal-documentations.php">Legal Documentations</a></li>
-                                        <li><a href="privacy-policy.php">Privacy Policy</a></li>
-                                        <li><a href="risk-disclaimer.php">Risk Disclaimer</a></li>
-                                        <li><a href="terms-conditions.php">Terms & Conditions</a></li>
-                                        <li><a href="faq.php">FAQ</a></li>
-                                        <li><a href="sitemap.php">Sitemap</a></li> -->
-
+                                       
                                     </ul>
                                 </li>
 
@@ -143,7 +133,7 @@
                                         <li><a href="primary-account.php">Primary Account</a></li>
                                         <li><a href="luxury-account.php">Luxury Account</a></li>
                                         <li><a href="islamic-account.php">Islamic Account</a></li>
-                                        <li><a href="deposite-methods.php">Diposite Methods</a></li>
+                                        <li><a href="deposite-methods.php">Deposite Methods</a></li>
                                         <li><a href="withdrwal-methods.php">Withdrawal Methods</a></li>
                                         <li><a href="safety-of-funds.php">Safety Of Funds</a></li>
 
@@ -157,9 +147,7 @@
                                         <li><a href="meta-trader-windows.php">Meta Trader 5 (Windows)</a></li>
                                         <li><a href="meta-trader-mobile.php">Meta Trader 5 (Mobile)</a></li>
                                         <li><a href="economic-calender.php">Economic Calender</a></li>
-                                        <!-- <li><a href="charts.php">Charts</a></li>
-                                        <li><a href="free-indicatores.php">Free Indicators & EA</a></li> -->
-
+                                     
 
                                     </ul>
                                 </li>
@@ -173,11 +161,7 @@
                                         <li><a href="technical-analysis.php">Technical Analysis</a></li>
                                         <li><a href="fundamental-analysis.php">Fundamental Analysis</a></li>
                                         <li><a href="forex-trading.php">Forex Trading</a></li>
-                                        <!-- <li><a href="cfd-trading.php">CFD Trading</a></li>
-                                        <li><a href="metals-trading.php">Metals Trading</a></li>
-                                        <li><a href="commodities.php">Commodities</a></li>
-                                        <li><a href="futures.php">Futures</a></li>
-                                        <li><a href="oil-trading.php">Oil Trading</a></li> -->
+                                      
                                         <li><a href="expert-advisors.php">Expert Advisors</a></li>
 
                                     </ul>
