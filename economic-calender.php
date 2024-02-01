@@ -20,6 +20,7 @@
 
 
 <!-- TradingView Widget BEGIN -->
+<h2 class="mt-4" style="text-align:center">Economic Calculator</h2>
 <div class="container">
 <div class="tradingview-widget-container">
   <div class="tradingview-widget-container__widget"></div>

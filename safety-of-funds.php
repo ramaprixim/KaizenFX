@@ -26,7 +26,9 @@
 <h3 class="font-weight-500 font-30 font- mt-10">Safety Of <span class="text-theme-colored2"> Funds</span></h3>
 <p class="lead">Trust your funds with KaizenFX
 </p>
-<p>At KaizenFX, ensuring the safety and security of your funds is our top priority. We implement rigorous measures to safeguard your investments, employing advanced encryption technologies and adhering to strict regulatory standards. Your funds are held in reputable financial institutions, separate from our operational accounts, providing an additional layer of protection. Additionally, our commitment to transparency ensures that you can monitor your account activity seamlessly. Trust in Axebrokerss for a secure and reliable environment, allowing you to trade with confidence and peace of mind.
+<p>Safety of Funds refers to the measures and protocols implemented by a brokerage to ensure the security and protection of clients' deposited funds.
+Meaning/Definition: Brokerages prioritize the safety of funds by employing secure technologies, segregating client funds, and adhering to regulatory guidelines to mitigate risks and safeguard clients' financial assets.
+
 </p>
 <!-- <img src="images/signature.png" alt="" class="mt-10 mb-15">
 <div><a href="#" class="btn btn-theme-colored mb-sm-30">Purchase Now</a></div> -->

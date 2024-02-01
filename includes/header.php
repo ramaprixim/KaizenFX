@@ -77,33 +77,7 @@
                                 Closed
                             </div>
                         </div>
-                        <div class="col-md-5">
-                            <div class="widget pull-right flip sm-pull-none">
-                                <ul class="nav navbar-nav list-bordered language-switcher">
-                                    <li class="dropdown">
-                                        <a href="#" class="dropdown-toggle text-theme-colored2" data-toggle="dropdown"
-                                            role="button" aria-haspopup="true" aria-expanded="false"><img
-                                                src="images/flags/en.png" alt="En"> ENG <span class="caret"></span></a>
-                                        <ul class="dropdown-menu">
-                                            <li><a href="#"><img src="images/flags/fr.png" alt="En"> France</a></li>
-                                            <li><a href="#"><img src="images/flags/de.png" alt="En"> German</a></li>
-                                            <li><a href="#"><img src="images/flags/it.png" alt="En"> Italy</a></li>
-                                        </ul>
-                                    </li>
-                                </ul>
-                            </div>
-                            <div class="widget">
-                                <ul class="list-inline  text-right flip sm-text-center">
-                                    <li class="m-0 pl-10"> <a href="ajax-load/login-form.html"
-                                            class="text-white ajaxload-popup"><i
-                                                class="fa fa-user-o mr-5 text-theme-colored2"></i> Login /</a> </li>
-                                    <li class="m-0 pl-0 pr-10">
-                                        <a href="ajax-load/register-form.html" class="text-white ajaxload-popup"><i
-                                                class="fa fa-edit mr-5 text-theme-colored2"></i>Register</a>
-                                    </li>
-                                </ul>
-                            </div>
-                        </div>
+                       
                     </div>
                 </div>
             </div>
@@ -114,7 +88,7 @@
                             <a class="menuzord-brand pull-left flip mt-20 mb-15" href="index-mp-layout1.html"><img
                                     src="images/KaizenFX  logo  .png" alt></a>
                             <ul class="menuzord-menu">
-                                <li class="active"><a href="#home">Home</a></li>
+                                <li class="active"><a href="http://localhost/KaizenFX/">Home</a></li>
                                 <li><a href="#">About Us</a>
                                     <ul class="dropdown" style="right: auto; display: none;">
                                         <li><a href="why-us.php">Why Us</a></li>
@@ -134,7 +108,7 @@
                                         <li><a href="luxury-account.php">Luxury Account</a></li>
                                         <li><a href="islamic-account.php">Islamic Account</a></li>
                                         <li><a href="deposite-methods.php">Deposite Methods</a></li>
-                                        <li><a href="withdrwal-methods.php">Withdrawal Methods</a></li>
+                                        <!-- <li><a href="withdrwal-methods.php">Withdrawal Methods</a></li> -->
                                         <li><a href="safety-of-funds.php">Safety Of Funds</a></li>
 
                                     </ul>
@@ -147,8 +121,8 @@
                                         <li><a href="meta-trader-windows.php">Meta Trader 5 (Windows)</a></li>
                                         <li><a href="meta-trader-mobile.php">Meta Trader 5 (Mobile)</a></li>
                                         <li><a href="economic-calender.php">Economic Calender</a></li>
-                                     
-
+                                      
+                                        <li><a href="  economic-calculator.php">Economic Calculator</a></li>
                                     </ul>
                                 </li>
 

@@ -54,19 +54,17 @@
                 <div class="wrapper">
 
                     <div>
-                        <h2>Micro Account</h2>
-                        <p>Designed for traders new to the Forex market and those trading smaller volumes,the Finnex
-                            Marketss Micro account allows
-                            investors to trade smaller trade sizes and open an account with a lower initial deposit than
-                            a Classic account all from the
-                            powerful MetaTrader 5 platform.</p>
+                        <h2>Mini Account</h2>
+                        <p>A Mini Account is designed for traders who want more flexibility than a Micro Account but still prefer smaller trade sizes. It offers a middle-ground option for those looking to trade with a moderate capital investment.
+Meaning/Definition: The Mini Account provides features suitable for intermediate traders and often has a higher minimum deposit compared to a Micro Account.
+</p>
                     </div>
                     <div class="auto-container">
                         <!-- Upper box -->
                         <div class="upper-box">
                             <div class="row clearfix">
                                 <div class="price-column col-lg-12 col-md-12 col-sm-12">
-                                    <h2>Micro Account</h2>
+                                    <!-- <h2>Mini Account</h2> -->
                                     <ul class="price-list">
                                         <li>Account Type : <span>Micro</span></li>
                                         <li>Min Deposit : <span>$100</span></li>
@@ -99,8 +97,8 @@
                             Account</a>
                         <a class="btn btn-lg btn-gradient btn-danger  btn-shadow my-2"
                             href="deposite-methods.php">Deposit</a>
-                        <a class="btn btn-lg btn-gradient btn-danger  btn-shadow my-2"
-                            href="withdrawal-methods.php">Withdrawal</a>
+                        <!-- <a class="btn btn-lg btn-gradient btn-danger  btn-shadow my-2"
+                            href="withdrawal-methods.php">Withdrawal</a> -->
                         <a class="btn btn-lg btn-gradient btn-danger  btn-shadow my-2" href="safety-of-funds.php">Safety
                             of funds</a>
                     </div>

@@ -54,19 +54,17 @@
                 <div class="wrapper">
 
                     <div>
-                        <h2>Micro Account</h2>
-                        <p>Designed for traders new to the Forex market and those trading smaller volumes,the Finnex
-                            Marketss Micro account allows
-                            investors to trade smaller trade sizes and open an account with a lower initial deposit than
-                            a Classic account all from the
-                            powerful MetaTrader 5 platform.</p>
+                        <h2>Islamic Account</h2>
+                        <p>An Islamic Account, also known as a swap-free account, is designed for traders adhering to Islamic principles that prohibit earning or paying interest. It eliminates overnight interest (swap) charges.
+Meaning/Definition: The Islamic Account accommodates traders who follow Sharia law, providing them with an interest-free trading environment.
+</p>
                     </div>
                     <div class="auto-container">
                         <!-- Upper box -->
                         <div class="upper-box">
                             <div class="row clearfix">
                                 <div class="price-column col-lg-12 col-md-12 col-sm-12">
-                                    <h2>Micro Account</h2>
+                                    <!-- <h2>Islamic Account</h2> -->
                                     <ul class="price-list">
                                         <li>Account Type : <span>Micro</span></li>
                                         <li>Min Deposit : <span>$100</span></li>
@@ -99,8 +97,8 @@
                             Account</a>
                         <a class="btn btn-lg btn-gradient btn-danger  btn-shadow my-2"
                             href="deposite-methods.php">Deposit</a>
-                        <a class="btn btn-lg btn-gradient btn-danger  btn-shadow my-2"
-                            href="withdrawal-methods.php">Withdrawal</a>
+                        <!-- <a class="btn btn-lg btn-gradient btn-danger  btn-shadow my-2"
+                            href="withdrawal-methods.php">Withdrawal</a> -->
                         <a class="btn btn-lg btn-gradient btn-danger  btn-shadow my-2" href="safety-of-funds.php">Safety
                             of funds</a>
                     </div>

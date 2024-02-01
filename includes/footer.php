@@ -49,10 +49,10 @@
               <li><a href="#">Mini Account</a></li>
               <li><a href="#">Primary Account</a></li>
               <li><a href="#">Luxury Account</a></li>
-              <li><a href="#">Compare Account Type</a></li>
+             
               <li><a href="#">Islamic Account</a></li>
               <li><a href="#">Deposite Methods</a></li>
-              <li><a href="#">Withdrwal Methods </a></li>
+              <!-- <li><a href="#">Withdrwal Methods </a></li> -->
               <li><a href="#">Safty Of Funds</a></li>
             </ul>
           </div>
@@ -74,26 +74,42 @@
       </div>
     </div>
   </div>
-  <div class="footer-bottom" data-bg-color="#253039">
-    <div class="container pt-20 pb-20">
+
+  <div class="container" style="padding: 30px;font-size: 15px;border: 1px solid rgb(117, 110, 110);margin-top: 20px;margin-bottom: 30px;border-radius: 10px;">
+                <span style="color: grey;font-size: 15px;"> <span style="color: white;"> </span> <br>
+                <span style="color:white;">Disclaimer-</span> 
+                <span style="color: grey;"> KaizenFx prioritizes fund safety, but trading involves risks. Past performance doesn't guarantee future results. Clients must exercise due diligence, and KaizenFx disclaims liability for losses. Seek independent financial advice before transactions.
+
+                        </span>
+                    <br><br>
+
+            </span></div>
+  <p  class="col-sm-12 col-md-12 text-center">Know Your Customer: All individuals/entities applying for forex registration undergo the FXBrokerService verification process. This involves the submission of Know Your Customer (KYC) documents by the prospective beneficiary/customer.
+
+
+
+</p>
+
+  <div class="footer-bottom" data-bg-color="#253039" >
+    <div class="container pt-20 pb-20 ">
       <div class="row">
         <div class="col-md-6">
-          <p class="font-12 sm-text-center text-black-777 m-0">Copyright &copy;2017 ThemeMascot. All Rights Reserved
+          <p class="font-15 sm-text-center text-white m-0 ">KaizenFX &copy; [2024] All Rights Reserved.
           </p>
         </div>
-        <div class="col-md-6 text-right">
-          <div class="widget no-border m-0">
-            <ul class="list-inline sm-text-center mt-5 font-12">
+        <div class="col-md-6 text-right ">
+          <div class="widget no-border m-0 ">
+            <ul class="list-inline sm-text-center mt-5 font-12 ">
               <li>
-                <a href="#">FAQ</a>
+                <a href="privacy-policy.php">Privacy Policy</a>
               </li>
               <li>|</li>
               <li>
-                <a href="#">Help Desk</a>
+                <a href="terms-and-conditon.php">Terms & Conditon</a>
               </li>
               <li>|</li>
               <li>
-                <a href="#">Support</a>
+                <a href="copyright.php">Copyright</a>
               </li>
             </ul>
           </div>

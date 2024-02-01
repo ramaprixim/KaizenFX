@@ -54,19 +54,17 @@
                 <div class="wrapper">
 
                     <div>
-                        <h2>Micro Account</h2>
-                        <p>Designed for traders new to the Forex market and those trading smaller volumes,the Finnex
-                            Marketss Micro account allows
-                            investors to trade smaller trade sizes and open an account with a lower initial deposit than
-                            a Classic account all from the
-                            powerful MetaTrader 5 platform.</p>
+                        <h2>Luxury Account</h2>
+                        <p>A Luxury Account is a premium-level trading account that offers exclusive benefits, personalized services, and premium trading conditions. It is tailored for high-net-worth individuals or institutional clients.
+Meaning/Definition: The Luxury Account provides a top-tier trading experience with priority support, advanced analytics, and other exclusive perks.
+</p>
                     </div>
                     <div class="auto-container">
                         <!-- Upper box -->
                         <div class="upper-box">
                             <div class="row clearfix">
                                 <div class="price-column col-lg-12 col-md-12 col-sm-12">
-                                    <h2>Micro Account</h2>
+                                    <!-- <h2>Luxury Account</h2> -->
                                     <ul class="price-list">
                                         <li>Account Type : <span>Micro</span></li>
                                         <li>Min Deposit : <span>$100</span></li>
@@ -99,8 +97,8 @@
                             Account</a>
                         <a class="btn btn-lg btn-gradient btn-danger  btn-shadow my-2"
                             href="deposite-methods.php">Deposit</a>
-                        <a class="btn btn-lg btn-gradient btn-danger  btn-shadow my-2"
-                            href="withdrawal-methods.php">Withdrawal</a>
+                        <!-- <a class="btn btn-lg btn-gradient btn-danger  btn-shadow my-2"
+                            href="withdrawal-methods.php">Withdrawal</a> -->
                         <a class="btn btn-lg btn-gradient btn-danger  btn-shadow my-2" href="safety-of-funds.php">Safety
                             of funds</a>
                     </div>
